@@ -7,4 +7,10 @@ test
 -------
 i added this comment
 
-<a href="#">HTML Example</a>
+<a href="#">Link Example</a>
+
+<script>
+	$(document).ready(function() {
+		$('.fancybox').fancybox();
+	});
+</script>
